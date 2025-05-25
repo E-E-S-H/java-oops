@@ -1,6 +1,6 @@
 class Area
 {
-	public static double circlearea(int r){
+	 public static double circlearea(int r){
 		double o;
 		o=3.414
 		System.out.println(o);
